@@ -11,6 +11,7 @@ MERN login and registraion page
 <ol>
     <li>mkdir server</li>
     <li>npm init -y</li>
+    <li>npm install express mongoose cors nodemon</li>
     <li></li>
 </ol>
 
