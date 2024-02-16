@@ -40,6 +40,11 @@ function Signup(){
                         Register
                     </button>
                 </form>
+                
+                <p>Already have an account ?</p>
+                <button className="btn btn-default w-100 bg-dark rounded-0 ">
+                    <a className="text-decoration-none text-white" href="/login">Login</a>
+                </button>
             </div>
         </div>
     )
